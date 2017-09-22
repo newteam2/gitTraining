@@ -5,3 +5,5 @@ for i in range(a+1):
         print('*', end='')
 
     print()    
+print("hahahaha")    
+    
